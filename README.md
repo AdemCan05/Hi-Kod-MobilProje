@@ -1,6 +1,6 @@
 # 📱 Dijital Şiddet Bilgilendirme Uygulaması
 
-Bu uygulama, Merhaba Hi Kod mobil eğitim programı kapsamında Flutter ile geliştirilmiştir. Dijital şiddet hakkında bilinçlendirme amacı taşır ve kullanıcıların dijital şiddet türleri hakkında bilgi edinmesini sağlar.
+Bu uygulama, Hi Kod Mobil Uygulama Geliştirme eğitim programı kapsamında Flutter ile geliştirilmiştir. Dijital şiddet hakkında bilinçlendirme amacı taşır ve kullanıcıların dijital şiddet türleri hakkında bilgi edinmesini sağlar.
 
 ## 🚀 Özellikler
 
