@@ -16,7 +16,7 @@ Projeyi cihazınızda çalıştırmak için aşağıdaki adımları izleyebilirs
 
 1. Bu projeyi klonlayın:
     ```bash
-    git clone https://github.com/AdemCan05/Hi-Kod-MobilProje.git
+    git clone https://github.com/kullanici_adi/proje_adi.git
     ```
 
 2. Proje dizinine gidin:
@@ -26,12 +26,12 @@ Projeyi cihazınızda çalıştırmak için aşağıdaki adımları izleyebilirs
 
 3. Gerekli bağımlılıkları yükleyin:
     ```bash
-    dart pub get
+    flutter pub get
     ```
 
 4. Uygulamayı çalıştırın:
     ```bash
-    dart run
+    flutter run
     ```
 
 ## 📂 Dosya Yapısı
